@@ -55,7 +55,7 @@
         app:layout_constraintVertical_bias="0.089" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/CalendarPop"
         android:textSize="20sp"
         android:layout_width="299dp"
         android:layout_height="wrap_content"
@@ -65,7 +65,7 @@
         android:textColor="@color/SecondText" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/SelectedDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/MainText"
