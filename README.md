@@ -16,7 +16,7 @@ Just download the code or pull the repo and run the file in Android studio.
 👤 **Ayman Tauhid**
 
 * Github: [@amentauhid](https://github.com/amentauhid)
-* LinkedIn: [@Ayman Tauhid](https://linkedin.com/in/Ayman Tauhid)
+* LinkedIn: [@Ayman Tauhid](https://linkedin.com/in/AymanTauhid)
 
 ## Show your support
 
