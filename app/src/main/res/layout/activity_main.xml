@@ -71,6 +71,7 @@
         android:textColor="@color/MainText"
         android:padding="17dp"
         android:textSize="17dp"
+        android:textStyle="bold"
         android:text="1.1.2001" />
 
     <TextView
@@ -79,10 +80,11 @@
         android:layout_height="wrap_content"
         android:textColor="@color/ButtonColor"
         android:textSize="17dp"
+        android:textStyle="bold"
         android:text="Selected Date" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/DateInMIn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="15dp"
@@ -97,6 +99,7 @@
         android:layout_height="wrap_content"
         android:textColor="@color/ButtonColor"
         android:textSize="17dp"
+        android:textStyle="bold"
         android:text="In minutes till date" />
 
 
