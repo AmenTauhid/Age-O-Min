@@ -3,7 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Age-O-Min is a basic android app calculator which calculates and converts user's age to minutes up till the current date. Use can select a date from the pop-up calendar and after selecting the date, the calculator will check and convert the date to the total number of minutes till the current date.
+> Age-O-Min is a basic android app calculator which calculates and converts user's age to minutes up till the current date. 
+> User can select a date from the pop-up calendar and after selecting the date, the calculator will check and convert the date to the total number of minutes till the current date.
 
 ## Usage
 
