@@ -16,11 +16,9 @@ Just download the code or pull the repo and run the file in Android studio.
 👤 **Ayman Tauhid**
 
 * Github: [@amentauhid](https://github.com/amentauhid)
-* LinkedIn: [@Ayman Tauhid](https://linkedin.com/in/AymanTauhid)
+* LinkedIn: [@Ayman Tauhid](https://www.linkedin.com/in/ayman-t-548b5921b)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
